@@ -1,6 +1,6 @@
 # performaceVendas
 📊 Dashboard full-stack de Performance de Vendas com gamificação e cálculo automatizado de comissões (Gatilhos). Desenvolvido com Spring Boot (Java), React, PostgreSQL e Docker.
-# 🚀 Manna Performance System - Dashboard de Vendas
+# 🚀 Performance System - Dashboard de Vendas
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 ![Java](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen)
