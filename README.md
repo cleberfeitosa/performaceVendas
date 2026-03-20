@@ -41,3 +41,15 @@ O projeto foi estruturado com foco em **Arquitetura Escalável**, separando clar
 Na raiz do projeto, execute o Docker Compose para iniciar o PostgreSQL:
 ```bash
 docker compose up -d
+
+Passo 2: Iniciar o Backend (Spring Boot)
+Abra a pasta do backend na sua IDE (IntelliJ, Eclipse ou VS Code) e rode a classe principal Application.java. A API estará disponível em http://localhost:8080.
+
+Passo 3: Iniciar o Frontend (React)
+Acesse a pasta do frontend via terminal e rode:
+
+Bash
+cd frontend
+npm install
+npm run dev
+Acesse a aplicação no navegador em http://localhost:5173.
